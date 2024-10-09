@@ -1,8 +1,20 @@
 # Python learning guide
 
-#### Python command examples with explanations, exercises from simple to advanced to help you improve your level.
+### Python command examples with explanations, exercises from simple to advanced to help you improve your level.
 
-> We also have a python language support tool. You can learn python language directly on our website.PythonID is online IDE with python compiler. You can use Python Shell like IDE, and take inputs from the user in our Python compiler. It supports Python3. [Learn more](https://pythonid.com)
+> We also have a python language support tool. You can learn python language directly on our website.PythonID is online IDE with python compiler. You can use Python Shell like IDE, and take inputs from the user in our Python compiler. It supports Python3. _[Learn more](https://pythonid.com)_
+
+## How to Use
+
+#### Copy the python code below and go _[here](https://pythonid.com)_ to run it. We also have different and varied examples to help you improve your python skills.
+
+```
+def sum(a, b):
+    return (a + b)
+a = 5
+b = 6
+print(f'Sum of {a} and {b} is {sum(a, b)}')
+```
 
 # Table of Contents
 
@@ -19,7 +31,3 @@
 - [Python Strings](https://pythonid.com/tutorials/python-strings)
 - [Python Booleans](https://pythonid.com/tutorials/python-booleans)
 - [Python Lists](https://pythonid.com/tutorials/python-lists)
-
-```
-
-```
